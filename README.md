@@ -65,7 +65,5 @@ Learns at:<a href="https://old.blathy.info/">
 
 ------
 
-[Nishant1500](https://github.com/Nishant1500)
-<br>
-Last Edited: 17/02/2022, Time: 16:20:27 IST
+
 
