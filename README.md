@@ -2,7 +2,7 @@
 
 I am Peter, a student developer. You can read here some info about me.
 - Pronouns: He/Him
-- I’m interested in [Java](https://www.oracle.com/in/java/). I know JavaScript, HTML and CSS (self-taught, so it is likely that i don't about know something)
+- I’m currently learning [Java](https://www.oracle.com/in/java/)
 - I’m looking to collaborate on open source projects
 #### 📫 How to reach me
 - Discord: [`petyadev#1129`](https://discord.com/users/707550269600169984)
