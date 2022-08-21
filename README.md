@@ -5,7 +5,7 @@ I am Peter. I am a student developer, you can read here some info about me
 - I’m interested in [Java](https://www.oracle.com/in/java/). I know JavaScript, HTML and CSS (self-taught, so it is likely that i don't about know something)
 - I’m looking to collaborate on open source projects
 #### 📫 How to reach me
-- Discord: [`Nishant1500#9735`](https://discord.com/users/908563963392958464)
+- Discord: [`petyadev#1129`](https://discord.com/users/707550269600169984)
 - Email: [`Click To Mail!`](mailto:nishant.behera0607@gmail.com) or copy **`nishant.behera0607@gmail.com`**
 - Or Contact me in this discord server: [Bee Hub!](https://discord.com/invite/xckZRGyDrM)
 
