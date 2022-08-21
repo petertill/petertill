@@ -59,8 +59,8 @@ More Info?
 Here you can see which school I go to and the bigger steps in my programming career
 
 <p align="center">
-<a href="https://old.blathy.info/">
-  BMSZC Bláthy Ottó Titusz Informatikai Technikum
+Learns at:<a href="https://old.blathy.info/">
+ BMSZC Bláthy Ottó Titusz Informatikai Technikum
 </a> | 2022-
   </p>
 
