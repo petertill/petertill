@@ -55,14 +55,13 @@ More Info?
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petertill&theme=radical" alt="More Nish Stats" /></p>
 </a>
 
-## 🎵 Spotify status
-I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
-**(If Something is not playing, it just shows static info of the previous played song)**
+## Schools
+Here you can see which school I go to and the bigger steps in my programming career
 
 <p align="center">
-<a href="https://readme-new.vercel.app/api/song/?opened">
-  <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
+<a href="https://old.blathy.info/">
+  BMSZC Bláthy Ottó Titusz Informatikai Technikum
+</a> | 2022-
   </p>
 
 
