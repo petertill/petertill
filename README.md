@@ -48,7 +48,7 @@ More Info?
 [![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petertill&show_icons=true&theme=radical)](https://github.com/petertill?tab=overview)
 <br>
 <a href="https://github.com/petertill?tab=overview">
-<img align="center" alt="Peters's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petertill&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<img align="center" alt="Peters's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petertill&layout=compact&langs_count=20&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petertill&theme=radical" alt="More Peter Stats" /></p>
 </a>
 
