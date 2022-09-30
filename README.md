@@ -55,10 +55,10 @@ More Info?
 ## Schools
 Here you can see which school I go to and the bigger steps in my programming career
 
-<p align="center">Programming as a hobby | 2016 - now<br>
+<p align="center">Programming as a hobby | 2016 - now<!--br>
 Learns at:<a href="https://old.blathy.info/">
  BMSZC Bláthy Ottó Titusz Informatikai Technikum
-</a> | 2022 - now
+</a--> | 2022 - now
   </p>
 
 
