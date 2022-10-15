@@ -5,8 +5,7 @@ I am Peter, a student developer. You can read here some info about me.
 - I’m currently learning [Java](https://www.oracle.com/in/java/)
 - I’m looking to collaborate on open source projects
 #### 📫 How to reach me
-- Discord: [`petyadev#1129`](https://discord.com/users/707550269600169984)
-- Email: [`Click To Mail!`](mailto:till.peter@goatvids.ga) or copy **`till.peter@goatvids.ga`**
+<a href="https://stackoverflow.com/users/19659146/peter-till"><img src="https://stackoverflow.com/users/flair/19659146.png" width="208" height="58" alt="profile for Peter Till at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Peter Till at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--- Or Contact me in this discord server: [Bee Hub!](https://discord.com/invite/xckZRGyDrM)
 
 [![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/xckZRGyDrM)
@@ -52,8 +51,7 @@ More Info?
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petertill&theme=radical" alt="More Peter Stats" /></p>
 </a>
 
-## How to reach me
-<a href="https://stackoverflow.com/users/19659146/peter-till"><img src="https://stackoverflow.com/users/flair/19659146.png" width="208" height="58" alt="profile for Peter Till at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Peter Till at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 
 ## Schools
 Here you can see which school I go to and the bigger steps in my programming career
