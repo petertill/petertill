@@ -52,6 +52,9 @@ More Info?
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petertill&theme=radical" alt="More Peter Stats" /></p>
 </a>
 
+## How to reach me
+<a href="https://stackoverflow.com/users/19659146/peter-till"><img src="https://stackoverflow.com/users/flair/19659146.png" width="208" height="58" alt="profile for Peter Till at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Peter Till at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ## Schools
 Here you can see which school I go to and the bigger steps in my programming career
 
