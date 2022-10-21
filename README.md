@@ -13,11 +13,6 @@ I am Peter, a student developer. You can read here some info about me.
 > You can know if i am active on Discord, by looking at my GitHub status. It updates when i become online on discord and when i am sleeping.
 
 --- -->
-<p align="center">
-<a href="https://open.spotify.com/user/31hua33mg5ia3eqe3z4xlheomphi?si=dVa8irCrROCs36V8SXDClA&utm_source=copy-link&dl_branch=1">
-<img alt="Spotify: Nishant1500" width="26px" height="26px" src="https://raw.githubusercontent.com/Nishant1500/Nishant1500/main/assets/Spotify.svg"/>
-</a>
-</p>
 
 
 
