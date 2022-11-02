@@ -48,7 +48,7 @@ More Info?
 
 
 
-## Schools
+## Career
 Here you can see which school I go to and the bigger steps in my programming career
 
 <p align="center">Programming as a hobby | 2016 - now<!--br>
