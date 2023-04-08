@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter Till</h1>
 <h3 align="center">A passionate student developer from Hungary</h3>
-%3Cimg src='https://csc-1.followrel.repl.co/getbal/Peter' alt='image description'%3E
+<img src="https://csc-1.followrel.repl.co/getbal/Peter" alt="image description">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petertill&label=Profile%20views&color=0e75b6&style=flat" alt="petertill" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petertill" alt="petertill" /></a> </p>
