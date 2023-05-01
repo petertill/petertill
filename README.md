@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Till</h1>
 <h3 align="center">A passionate student developer from Hungary</h3>
 <img src="https://csc.onrender.com/getbal/petertill?" >
+The CodersCoin balance may take time to load due to hibernated environment
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petertill&label=Profile%20views&color=0e75b6&style=flat" alt="petertill" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pter_till" target="blank"><img src="https://img.shields.io/twitter/follow/pter_till?logo=twitter&style=for-the-badge" alt="pter_till" /></a> </p>
