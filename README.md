@@ -6,7 +6,7 @@ The CodersCoin balance may take time to load due to hibernated environment
 
 <p align="left"> <a href="https://twitter.com/pter_till" target="blank"><img src="https://img.shields.io/twitter/follow/pter_till?logo=twitter&style=for-the-badge" alt="pter_till" /></a> </p>
 
-- 🔭 I’m currently working on [BudgetCat](https://budgetcat.web.app) and [CodersCoin](https://github.com/coderscoin)
+- 🔭 I’m currently working on [BudgetCat](https://budgetcat.web.app) and [CodersCoin](https://coderscoin.github.io)
 
 - 🌱 I’m currently learning **JS algorithms**
 
