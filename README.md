@@ -11,7 +11,7 @@
 - 📫 How to reach me **contact@petertill.tech**
 
 
-### CodersCoin balance:
+### [CodersCoin](https://coderscoin.github.io/) balance:
 <img src="https://csc.onrender.com/getbal/petertill?" >
 The CodersCoin balance may take time to load due to hibernated environment
 
