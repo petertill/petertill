@@ -1,4 +1,4 @@
-# Hi 👋, I'm Peter Till
+# Hi 👋, I'm Peter Till #
 ## A passionate student developer from Hungary
 ### CodersCoin balance:
 <img src="https://csc.onrender.com/getbal/petertill?" >
