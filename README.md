@@ -2,7 +2,7 @@
 ## I'm the creator of CodersCoin (CSC)
 - 🔭 I’m currently working on [BudgetCat](https://budgetcat.web.app) and [CodersCoin](https://coderscoin.github.io)
 
-- 🌱 I’m currently learning **JS algorithms**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://petertill.tech](https://petertill.tech)
 
