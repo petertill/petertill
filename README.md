@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter Till</h1>
+### Hi 👋, I'm Peter Till
 <h3 align="center">A passionate student developer from Hungary</h3>
 <img src="https://csc.onrender.com/getbal/petertill?" >
 The CodersCoin balance may take time to load due to hibernated environment
