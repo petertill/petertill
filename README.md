@@ -1,5 +1,5 @@
 # Hi 👋, I'm Peter Till #
-## A passionate student developer from Hungary
+## I'm the creator of CodersCoin (CSC)
 ### CodersCoin balance:
 <img src="https://csc.onrender.com/getbal/petertill?" >
 The CodersCoin balance may take time to load due to hibernated environment
