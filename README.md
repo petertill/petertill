@@ -1,5 +1,6 @@
 # Hi 👋, I'm Peter Till
-<h3 align="center">A passionate student developer from Hungary</h3>
+## A passionate student developer from Hungary
+### CodersCoin balance:
 <img src="https://csc.onrender.com/getbal/petertill?" >
 The CodersCoin balance may take time to load due to hibernated environment
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petertill&label=Profile%20views&color=0e75b6&style=flat" alt="petertill" /> </p>
