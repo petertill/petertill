@@ -36,5 +36,5 @@ To receive valuable tech insights, please follow my [Substack](https://petertill
 <a href="/http://blog.petertill.tech/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://blog.petertill.tech/feeds/posts/default?alt=rss" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-Android Studio: ![Progress](https://progress-bar.dev/28/)
+## Languages and Tools:
+Android Studio (Java): ![Progress](https://progress-bar.dev/87/)
