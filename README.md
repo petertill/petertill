@@ -21,6 +21,8 @@ The CodersCoin balance may take time to load due to hibernated environment
 * Ethereum/Polygon: `0x6FFCf35687F40eb38699A66c2FA9cDA4a0e0aBB6`
 * CodersCoin: `csc.6eeddf6f133ac189824ebb702a6b5e`
 
+> Please don't send spam or scam NFTs! I don't fall for them, but if you send them, I'll track down your main wallet and flood you with NFTs.
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [I have created a cryptocurrency just for developers](http://blog.petertill.tech/2023/04/i-have-created-cryptocurrency-just-for.html)
