@@ -37,4 +37,4 @@ To receive valuable tech insights, please follow my [Substack](https://petertill
 </p>
 
 ## Languages and Tools:
-Android Studio (Java): ![Progress](https://progress-bar.dev/87/)
+Android Studio (Java): ![Progress](https://progress-bar.dev/87/?width=250)
