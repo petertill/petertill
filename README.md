@@ -16,10 +16,10 @@
 The CodersCoin balance may take time to load due to hibernated environment
 
 ## Support me
-Bitcoin: `bc1q3ce5wl2g2v38a9pcs6fplr4qet0z4g4s47383j`
-Solana: `H8daSH5EDAtCa3ZCRJb9WoYFyyH8QT7rEbVG9izCEbA6`
-Ethereum/Polygon: `0x6FFCf35687F40eb38699A66c2FA9cDA4a0e0aBB6`
-CodersCoin: `csc.6eeddf6f133ac189824ebb702a6b5e`
+* Bitcoin: `bc1q3ce5wl2g2v38a9pcs6fplr4qet0z4g4s47383j`
+* Solana: `H8daSH5EDAtCa3ZCRJb9WoYFyyH8QT7rEbVG9izCEbA6`
+* Ethereum/Polygon: `0x6FFCf35687F40eb38699A66c2FA9cDA4a0e0aBB6`
+* CodersCoin: `csc.6eeddf6f133ac189824ebb702a6b5e`
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
