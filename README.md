@@ -37,4 +37,4 @@ To receive valuable tech insights, please follow my [Substack](https://petertill
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Android Studio: [87%](https://progress-bar.dev/87)
+Android Studio: ![Progress](https://progress-bar.dev/28/)
