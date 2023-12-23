@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://petertill.tech](https://petertill.tech)
+- 👨‍💻 All of my projects are available at [https://petertill.github.io](https://petertill.github.io)
 
 - 📝 I regularly write articles on [https://blog.petertill.tech](https://blog.petertill.tech)
 
@@ -14,6 +14,12 @@
 ### [CodersCoin](https://coderscoin.github.io/) balance:
 <img src="https://csc.onrender.com/getbal/petertill?" >
 The CodersCoin balance may take time to load due to hibernated environment
+
+## Support me
+Bitcoin: `bc1q3ce5wl2g2v38a9pcs6fplr4qet0z4g4s47383j`
+Solana: `H8daSH5EDAtCa3ZCRJb9WoYFyyH8QT7rEbVG9izCEbA6`
+Ethereum/Polygon: `0x6FFCf35687F40eb38699A66c2FA9cDA4a0e0aBB6`
+CodersCoin: `csc.6eeddf6f133ac189824ebb702a6b5e`
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
