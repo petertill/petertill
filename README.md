@@ -10,11 +10,6 @@
 
 - 📫 How to reach me **contact@petertill.tech**
 
-
-### [CodersCoin](https://coderscoin.github.io/) balance:
-<img src="https://csc.onrender.com/getbal/petertill?" >
-The CodersCoin balance may take time to load due to hibernated environment
-
 ## Support me
 * Bitcoin: `bc1q3ce5wl2g2v38a9pcs6fplr4qet0z4g4s47383j`
 * Solana: `H8daSH5EDAtCa3ZCRJb9WoYFyyH8QT7rEbVG9izCEbA6`
@@ -23,13 +18,8 @@ The CodersCoin balance may take time to load due to hibernated environment
 
 > Please don't send spam or scam NFTs! I don't fall for them, but if you send them, I'll track down your main wallet and flood you with NFTs.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [I have created a cryptocurrency just for developers](http://blog.petertill.tech/2023/04/i-have-created-cryptocurrency-just-for.html)
-- [Explaining programming memes | Part 2](http://blog.petertill.tech/2023/03/explaining-programming-memes-part-2.html)
-- [Explaining programming memes | Part 1](http://blog.petertill.tech/2023/03/explaining-programming-memes-part-1.html)
-- [How I built an app from scratch | Part 1](http://blog.petertill.tech/2023/03/how-i-built-app-from-scratch-part-1.html)
-<!-- BLOG-POST-LIST:END -->
+## My newsletter
+To receive valuable tech insights, please follow my [Substack](https://petertill.substack.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
